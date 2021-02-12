@@ -1,0 +1,22 @@
+{
+  "name": "AggregateTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Corbin Crutchley",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.6.7",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.5"
+  }
+}
